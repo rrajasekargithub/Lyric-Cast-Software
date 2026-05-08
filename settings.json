@@ -1,0 +1,14 @@
+{
+  "background": "#000000",
+  "textColor": "#ffffff",
+  "fontSize": 82,
+  "fontName": "ATM_499.ttf",
+  "previewFont": "ATM_499.ttf",
+  "layout": "lowerthird",
+  "theme": "ribbon",
+  "transition": "words",
+  "accentColor": "#f56bbb",
+  "showTitle": false,
+  "linesMode": "2",
+  "searchMinChars": 2
+}
